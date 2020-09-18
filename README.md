@@ -1,4 +1,4 @@
-[image.jpg](images/image.jpg)
+[images/PNG image.png](images/PNG image.png)
 
 # Sololearn
 
